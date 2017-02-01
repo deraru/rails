@@ -1,3 +1,7 @@
+*   Treat html suffix in controller translation.
+
+    *Rui Onodera*
+
 *   Remove deprecated `.to_prepare`, `.to_cleanup`, `.prepare!` and `.cleanup!` from `ActionDispatch::Reloader`.
 
     *Rafael Mendonça França*
